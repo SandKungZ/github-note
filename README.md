@@ -2,9 +2,9 @@
 Description command to use often. <br />
 ######### Local Git ######
 
-git config --global user.name "YOURNAME"
-git config --global user.email "your@email.com"
-git config --list
+git config --global user.name "YOURNAME" <br/>
+git config --global user.email "your@email.com" <br/>
+git config --list <br/>
 
 echo "# test" >> README.md		//สร้างไฟล์ readme.md
 
