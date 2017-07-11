@@ -1,9 +1,13 @@
 # Description command to use often. <br />
-## Local Git
-git config --global user.name **"YOURNAME"** <br/>
-git config --global user.email **"your@email.com"** <br/>
-git config --list <br/>
 
+## First Time Setup.
+git config --global user.name **"YOURNAME"** //กำหนดชื่อ Github<br/>
+git config --global user.email **"your@email.com"** //กำหนดอีเมล Github Account.<br/>
+git config --list   //เช็คการตั้งค่า<br/>
+
+git config --global --unset **user.name** //ลบการตั้งค่า
+
+## Local Git.
 echo **"# test"** >> README.md		//สร้างไฟล์ readme.md
 
 git init		//create git repository <br/>
