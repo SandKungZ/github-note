@@ -1,6 +1,7 @@
 # github-note
-Description command to use often.
-################################################### Local Git ################################################################
+Description command to use often. <br />
+######### Local Git ######
+
 git config --global user.name "YOURNAME"
 git config --global user.email "your@email.com"
 git config --list
