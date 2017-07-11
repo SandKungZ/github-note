@@ -1,7 +1,6 @@
-# github-note
-Description command to use often. <br />
+# Description command to use often. <br />
 ## Local Git
-git config --global user.name "YOURNAME" <br/>
+git config --global user.name **"YOURNAME"** <br/>
 git config --global user.email "your@email.com" <br/>
 git config --list <br/>
 
@@ -17,7 +16,7 @@ git add '*.txt'	//*.txt ไฟล์ทั้งหมด<br/>
 
 git commit -m "your message"<br/>
 
-git branch create_new_page	//สร้างสาขา<br/>
+git branch **create_new_page**	//สร้างสาขา<br/>
 git branch		//ดูสาขาทั้งหมด<br/>
 git branch -d branch_name	//ลบสาขา<br/>
 
